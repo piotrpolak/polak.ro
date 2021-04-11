@@ -28,7 +28,7 @@ twitter_username:
 github_username:  piotrpolak
 
 # Build settings
-#theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-paginate
