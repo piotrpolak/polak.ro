@@ -1,7 +1,7 @@
 Piotr Polak:
   name        : "Piotr Polak"
   bio         : "Coding since 2003"
-  avatar      : "https://avatars.githubusercontent.com/u/1048408?v=4"
+  avatar      : "/assets/avatar.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
